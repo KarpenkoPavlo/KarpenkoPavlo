@@ -4,6 +4,8 @@
 
 📫 You can reach me via:karpenkopasha19@outlook.com
 
+<iframe src="https://gifer.com/embed/7wkh" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavlo-karpenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
