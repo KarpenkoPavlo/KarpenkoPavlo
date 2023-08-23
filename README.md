@@ -4,7 +4,7 @@
 
 📫 You can reach me via:karpenkopasha19@outlook.com
 
-![night cat](https://i.gifer.com/7wkh.gif)
+![](https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
