@@ -4,7 +4,7 @@
 
 📫 You can reach me via:karpenkopasha19@outlook.com
 
-![](https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true)
+![](https://media.giphy.com/media/xT1R9DfG0oQ2Z1p2T2/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
