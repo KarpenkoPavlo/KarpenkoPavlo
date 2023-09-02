@@ -27,7 +27,7 @@ I'm Pavel, junior Front-end developer from Dnipro, Ucraine.</h3>
 </div>
 
 
-
+<!--
 <h3>• Books I read:</h3>
 <p align="center">
   <a href="https://coderbooks.ru/books/css/shpargalki-dlya-nachinayushego-verstalshika-html-css/"><img src="https://th.bing.com/th/id/OIP.fMZDLFV9VRaC1U8LABBLhQHaKd?pid=ImgDet&rs=1" width="130px"></a>
@@ -38,7 +38,7 @@ I'm Pavel, junior Front-end developer from Dnipro, Ucraine.</h3>
   <a href="https://books.google.com.ua/books?id=GWGFEAAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false"><img src="https://www.ukazka.ru/img/g/uk625073.jpg" width="130px"></a>
   <a href="https://books.google.com.ua/books?id=fJtcEAAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false"><img src="https://th.bing.com/th/id/OIP.k8dFXRZgzOXZU4NE6Pk9dAHaKe?pid=ImgDet&rs=1" width="130px"></a>
 </p>
-                                                                                                    
+-->                                                                                                    
 
                                                                                                     
 
