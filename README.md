@@ -1,6 +1,8 @@
 <h1 align="center">Hey👋! Nice to see you.</h1>
 <h3 align="left">😄Welcome to my page!
 I'm Pavel, junior Front-end developer from Dnipro, Ucraine.</h3>
+
+<h3  align="left"><a href="https://github.com/SRDP-TECHNOLOGIES/nmetau-university">• A PROJECT I'M CURRENTLY WORKING ON</a></h3>
 <br>
 
 [![KarpenkoPavlo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarpenkoPavlo&theme=react-dark)](https://github.com/KarpenkoPavlo/github-readme-activity-graph)
@@ -25,22 +27,6 @@ I'm Pavel, junior Front-end developer from Dnipro, Ucraine.</h3>
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=KarpenkoPavlo&theme=tokyonight)  
   
 </div>
-
-
-<!--
-<h3>• Books I read:</h3>
-<p align="center">
-  <a href="https://coderbooks.ru/books/css/shpargalki-dlya-nachinayushego-verstalshika-html-css/"><img src="https://th.bing.com/th/id/OIP.fMZDLFV9VRaC1U8LABBLhQHaKd?pid=ImgDet&rs=1" width="130px"></a>
-  <a href="https://books.google.com.ua/books?id=gQrODAAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false"><img src="https://cdn1.ozone.ru/multimedia/c1200/1015094867.jpg" width="130px"></a>
-  <a href="https://coderbooks.ru/books/css/html5-css3-osnovy-sovremennogo-web-dizajna/"><img src="https://cdn1.ozone.ru/multimedia/c750/1021900724.jpg" width="130px"></a>
-  <a href="https://coderbooks.ru/books/css/veb-dizajn-dlya-nachinayushih-5-izd/"><img src="https://balka-book.com/files/2021/05_05/14_07/u_files_store_22_1074050.jpg" width="130px"></a>
-  <a href="https://coderbooks.ru/books/css/bootstrap-i-css-preprocessor-sass/"><img src="https://sbornik-knig.ru/uploads/posts/2022-06/1654176534_1654176549.jpg" width="130px"></a>
-  <a href="https://books.google.com.ua/books?id=GWGFEAAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false"><img src="https://www.ukazka.ru/img/g/uk625073.jpg" width="130px"></a>
-  <a href="https://books.google.com.ua/books?id=fJtcEAAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false"><img src="https://th.bing.com/th/id/OIP.k8dFXRZgzOXZU4NE6Pk9dAHaKe?pid=ImgDet&rs=1" width="130px"></a>
-</p>
--->                                                                                                    
-
-                                                                                                    
 
 <!--
 **KarpenkoPavlo/KarpenkoPavlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
