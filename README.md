@@ -28,6 +28,8 @@ I'm Pavel, junior Front-end developer from Dnipro, Ucraine.</h3>
   
 </div>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KarpenkoPavlo)
+
 <!--
 **KarpenkoPavlo/KarpenkoPavlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
