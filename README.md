@@ -2,7 +2,6 @@
 <h3 align="left">😄Welcome to my page!
 I'm Pavel, junior Front-end developer from Dnipro, Ucraine.</h3>
 
-<h3  align="left"><a href="https://github.com/SRDP-TECHNOLOGIES/nmetau-university">• A PROJECT I'M CURRENTLY WORKING ON</a></h3>
 <br>
 
 [![KarpenkoPavlo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarpenkoPavlo&theme=react-dark)](https://github.com/KarpenkoPavlo/github-readme-activity-graph)
