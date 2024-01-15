@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋! Nice to see you.</h1>
 <h3 align="left">😁Welcome to my page!
-I'm Pavel, junior Front-end developer from Dnipro, Ucraine.</h3>
+I'm Pavel, junior Front-end developer from Dnipro, Ukraine.</h3>
 
 <br>
 
