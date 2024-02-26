@@ -1,4 +1,6 @@
-<h3 align="left">- Hi, my name is Pavlo. I am a Front-end developer from Dnipro.
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+<h3 align="left">- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Hi, my name is Pavlo. I am a Front-end developer from Dnipro.
 I am engaged in the development of landing pages, multi-page sites and web applications</h3>
 
 <br>
@@ -26,7 +28,7 @@ I am engaged in the development of landing pages, multi-page sites and web appli
   
 </div>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KarpenkoPavlo)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KarpenkoPavlo) <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 <!--
 **KarpenkoPavlo/KarpenkoPavlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
