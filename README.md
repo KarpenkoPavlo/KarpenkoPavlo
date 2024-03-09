@@ -33,10 +33,13 @@ I am engaged in the development of landing pages, multi-page sites and web appli
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarpenkoPavlo&theme=tokyonight)
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=KarpenkoPavlo&theme=tokyonight)  
   [![KarpenkoPavlo GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KarpenkoPavlo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/KarpenkoPavlo/github-readme-stats#gh-dark-mode-only)
+
   
 </div>
 
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KarpenkoPavlo) <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+![Codewars](https://www.codewars.com/users/KarpenkoPavlo/badges/micro)
 
 <!--
 **KarpenkoPavlo/KarpenkoPavlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
