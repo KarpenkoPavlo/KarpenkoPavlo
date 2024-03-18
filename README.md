@@ -23,7 +23,7 @@ I am engaged in the development of landing pages, multi-page sites and web appli
 <p align="left">
   <a href="https://linkedin.com/in/pavlo-karpenko-258204277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
- <a href="https://www.instagram.com/karpenko_p_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+ <a href="https://www.instagram.com/karpenko.pvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 
   <hr>
